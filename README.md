@@ -1,6 +1,6 @@
 # Awesome-Enterprise-IT-Cloud-Management
 
-# Top Enterprise IT & Cloud Management Ecosystem
+## Top Enterprise IT & Cloud Management Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Multi-Cloud Orchestration, FinOps Cost Control & Self-Hosted Management Platforms*  
