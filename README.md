@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-IT-Cloud-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-IT-Cloud-Management?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-IT-Cloud-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-IT-Cloud-Management?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-IT-Cloud-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-IT-Cloud-Management?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-IT-Cloud-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Enterprise-IT-Cloud-Management?style=flat-square" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-IT-Cloud-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -63,9 +63,9 @@ The sector is **moderately to highly fragmented** rather than a winner-take-all 
 
 ## 🔓 Top Open-Source GitHub Projects
 
-*Self-hosted cloud management platforms, multi-cloud control planes, and FinOps engines ranked in descending order by GitHub Stars.*
+*Self-hosted cloud management platforms, multi-cloud control planes, and FinOps engines ranked in descending order by GitHub_Stars.*
 
-| Project | Stars | License | Description |
+| Project | GitHub_Stars | License | Description |
 |---|---|---|---|
 | [OpenTofu](https://github.com/opentofu/opentofu) | [![Stars](https://img.shields.io/github/stars/opentofu/opentofu?style=social&color=white)](https://github.com/opentofu/opentofu/stargazers) | `MPL-2.0` | Linux Foundation declarative open-source Infrastructure as Code (IaC) tool for multi-cloud resource provisioning. |
 | [Infracost](https://github.com/infracost/infracost) | [![Stars](https://img.shields.io/github/stars/infracost/infracost?style=social&color=white)](https://github.com/infracost/infracost/stargazers) | `Apache-2.0` | Cloud cost intelligence and FinOps shift-left tool analyzing Terraform and OpenTofu pull requests before deployment. |
